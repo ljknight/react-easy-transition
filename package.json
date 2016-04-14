@@ -38,6 +38,9 @@
     "css",
     "inline"
   ],
+  "peerDependencies": {
+    "react": "^0.14.0 || 15.0"
+  },
   "devDependencies": {
     "babel-cli": "^6.1.2",
     "babel-core": "^6.7.4",
@@ -66,7 +69,6 @@
     "webpack": "^1.12.9"
   },
   "dependencies": {
-    "react": "^0.14.0 || 15.0",
     "react-addons-transition-group": "^0.14.0 || 15.0"
   }
 }
